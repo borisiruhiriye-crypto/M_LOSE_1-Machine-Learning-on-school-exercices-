@@ -1,0 +1,3 @@
+THe algo will judge the added value of a transferts depending on the evolution of the club's position for the saison(1 if it decreases and 0 if not).
+And question might be raise about the finite year data, the plan is to, arbitrairy, force an intervalle of club'sposition(the reason behind: we have to make
+gift the best teams for theirs efforts in this chaos).
