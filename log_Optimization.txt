@@ -3,3 +3,4 @@ Attention : Propositions can be made if u tell me
 
 * 2026-11-10 : subject : make computable all columns for avoid loss of data
 response : the solution the only no numeric type that can make us lose data is string type. So we will create for each character of each string a cell that will contain his Unicode decimal.
+* 2026-11-12 : subject : the player's name column was been replaced into orthers columns whose number equal to the max of the name column.
